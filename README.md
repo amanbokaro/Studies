@@ -11,6 +11,10 @@ If however, they are different then you need to look at whether or not you met
 the assumptions of Pearsons (constant variance and linearity) and if these are not met, you are probably better off using Spearmans.
 
 
+It measures the strength of the linear relationship between normally distributed variables. When the variables are not normally distributed or the relationship between the variables is not linear, it may be more appropriate to use the Spearman rank correlation method
+
+Its  calculation  and  subsequent  significance  testing  of  it  requires the following data assumptions to hold: 1.  interval or ratio level;  2. linearly  related;  3. bivariate normally distributed. If  your  data  does  not  meet  the  above  assumptions  then  use  Spearman’s  rank correlation
+
 
 https://en.wikipedia.org/wiki/Silhouette_(clustering)
 https://en.wikipedia.org/wiki/Dunn_index
